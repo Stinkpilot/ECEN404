@@ -8,7 +8,7 @@ from collections import Counter
 import redis
 
 ACCOUNT_SID= 'AC6c443352f12f7d72745b17fb6254267a'
-AUTH_TOKEN= '78ed6c2d270861cb5ea249f949c19469'
+AUTH_TOKEN= 'removed for privacy purposes'
 
 def on_connect(client, userdata, flags, rc):  # The callback for when the client connects to the broker
     print("Connected with result code {0}".format(str(rc)))  # Print result of connection attempt
