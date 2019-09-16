@@ -1,2 +1,10 @@
 # ECEN404
 ECEN 404 Wildfire Project
+
+9/16/19 Update:
+
+Kelli Templeton:
+1. Tested the UART retrieval and parsing code for the MCU-GSM integration (uploaded code today 9/16/19)
+2. Finalized the web application (will upload code today 9/16/19)
+3. Created the initial physical container 
+4. Began the design of the mobile PCB. 
