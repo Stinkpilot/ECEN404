@@ -8,3 +8,8 @@ Kelli Templeton:
 2. Finalized the web application (will upload code today 9/16/19)
 3. Created the initial physical container 
 4. Began the design of the mobile PCB. 
+
+Joshua Hornsey:
+1. Worked on the camera4
+2. Finished tutorial on Mask R-CNN object detection models
+3. Finished tutorial on YOLO object detection models
