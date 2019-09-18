@@ -1,5 +1,5 @@
-Week 9/13-9/19
+Week 9/16
 - Finished tutorial on mask R-CNN models
 - Finished tutorial on YOLO object detection models
 - (Finished tutorial on object detection without Keras)
-Week 9/20-9/27
+Week 9/23
