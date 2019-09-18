@@ -1,0 +1,12 @@
+Kelli Templeton Update Log
+
+9/16/19 Update:
+
+1. Tested the UART retrieval and parsing code for the MCU-GSM integration (uploaded code today 9/16/19)
+2. Finalized the web application (will upload code by end of week)
+3. Created the initial physical container
+4. Began the design of the mobile PCB.
+
+9/18/19 Update:
+
+1. Integrated GSM module with Arduino MCU successfully (uploaded GSM and Arduino code today 9/18/19) 
