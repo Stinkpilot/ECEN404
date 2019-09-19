@@ -15,6 +15,9 @@ Joshua Hornsey:
 3. Finished tutorial on YOLO object detection models
 
 Mevin Ansa:
-1.Begun to program UART data frames to GSM module 
+
+1.Begun to program UART data frames to GSM module
+
 2.Begun to program GPS module to microcontroller.
+
 3.Begun design of PCB for power supply
