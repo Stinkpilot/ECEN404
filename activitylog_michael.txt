@@ -1,0 +1,5 @@
+09/19/2019
+- This last week I ordered and tested the two Omron SSRs and dc/dc converter to validate they would work for my use. 
+- I have been working on the PCB design for my romote sensor module and hope to have it done by 09/19
+- I plan to have the PCB ordered and hopefully begin testing next week
+- I plan to work on GPS integration this next week
