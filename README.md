@@ -13,3 +13,8 @@ Joshua Hornsey:
 1. Worked on the camera4
 2. Finished tutorial on Mask R-CNN object detection models
 3. Finished tutorial on YOLO object detection models
+
+Mevin Ansa:
+Begun to program UART data frames to GSM module 
+Begun to program GPS module to microcontroller.
+Begun design of PCB for power supply
