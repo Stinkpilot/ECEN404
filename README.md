@@ -29,7 +29,11 @@ Mevin Ansa:
 
 Kelli Templeton:
 1. Integrated GSM module with ODROID successfully which invovled:
+  
   1.1 Integrating GSM module with Arduino for communication testing
+  
   1.2 Testing viable types of messages (strings, dictionaries, byte arrays)
+  
   1.3 Integrating message receiving and parsing code with MQTT code
+  
   1.4 Validating message accuracy
