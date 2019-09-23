@@ -10,3 +10,7 @@ Kelli Templeton Update Log
 9/18/19 Update:
 
 1. Integrated GSM module with Arduino MCU successfully (uploaded GSM and Arduino code today 9/18/19) 
+
+9/22/19 Update:
+
+1. Integrated GSM module with ODROID successfully
