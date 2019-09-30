@@ -33,3 +33,11 @@ Kelli Templeton:
   1.2 Testing viable types of messages (strings, dictionaries, byte arrays)
   1.3 Integrating message receiving and parsing code with MQTT code
   1.4 Validating message accuracy
+
+
+9/26/19 Update:
+
+Kelli Templeton:
+1. Validated connection of ODROID and GSM module
+2. Wrote initial camera integration code
+3. Wrote initial code to pull sensor data and format it into expected string
