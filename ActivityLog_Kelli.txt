@@ -14,3 +14,9 @@ Kelli Templeton Update Log
 9/22/19 Update:
 
 1. Integrated GSM module with ODROID successfully
+
+9/26/19 Update:
+
+1. Validated connection of ODROID and GSM module
+2. Wrote initial camera integration code
+3. Wrote initial code to pull sensor data and format it into expected string
