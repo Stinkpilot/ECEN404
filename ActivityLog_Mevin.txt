@@ -6,10 +6,13 @@ Week 9/16
 3.Begun design of PCB for power supply
 
 
- week 9/30
- 
- 1.Done PCB design and ordered
+Week 9/27 update
+ 1.PCB design ordered
 
-2. Integrated GSM modolue to the odroid
+
+ week 9/30
+ 2. Integrated GSM modolue to the odroid
+ 
+ 
 
 
