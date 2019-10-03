@@ -9,3 +9,11 @@
 - I have been working on integration of the GPS module with the ODOID
 - I plan to work on validating the PCB once recieved and mounting all necesary components
 - I plan to have the GPS integrated with the ODOID over the next week
+
+10/3/2019
+ - This last week I recieved my PCB and begun testing/soft fitting of components
+ - I ordered the remaining components for my PCB (sockets for the ICs, caps, etc.)
+ - I wrote C code for opening serial port and reading GPS data from the module
+ - Sucessfully tested my code on the odroid with the gps module
+ - I plan to mount all the components and begin validation of my subsystem
+ - I plan to begin working on integration of the RF module with the odroid
