@@ -41,3 +41,10 @@ Kelli Templeton:
 1. Validated connection of ODROID and GSM module
 2. Wrote initial camera integration code
 3. Wrote initial code to pull sensor data and format it into expected string
+
+
+
+10/3/19 Update:
+
+Kelli Templeton:
+1. Tested and improved camera integration code
