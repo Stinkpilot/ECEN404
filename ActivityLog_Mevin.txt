@@ -1,6 +1,15 @@
 Week 9/16
-1.Begun to program UART data frames to GSM module
+1.Begun to integrate GSM module
 
-2.Begun to program GPS module to microcontroller
+2.Begun to integrate GPS module to microcontroller
 
 3.Begun design of PCB for power supply
+
+
+ week 9/30
+ 
+ 1.Done PCB design and ordered
+
+2. Integrated GSM modolue to the odroid
+
+
