@@ -5,3 +5,4 @@ Week 9/16
 Week 9/23
 - Labeled and boxed 4000 images for training
 - Trained a model
+Week 9/30
