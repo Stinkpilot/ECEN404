@@ -272,3 +272,12 @@ def register():
         flash('Congratulations, you are now a registered user!')
         return redirect(url_for('login'))
     return render_template('register.html', title='Register', form=form)
+
+#-----------------------------------------------------------------------------------------
+
+@app.route('/user_help')
+@login_required 
+def user_help():
+    return render_template('user_help.html', title='User Help')
+
+#---------------------------------------------------------------------------------------------
