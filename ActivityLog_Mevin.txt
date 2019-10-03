@@ -11,7 +11,9 @@ Week 9/27 update
 
 
  week 9/30
- 2. Integrated GSM modolue to the odroid
+ 1. Integrated GSM modolue to the odroid
+ 
+ 2. Ordered some components to PCB design
  
  
 
