@@ -6,3 +6,5 @@ Week 9/23
 - Labeled and boxed 4000 images for training
 - Trained a model
 Week 9/30
+- Labeled 400 images for validation
+Week 10/7
