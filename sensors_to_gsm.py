@@ -9,12 +9,12 @@ while True:
   rain_output = subprocess.check_output(args=['./rain_sensor'])
   soil_moisture_output = subprocess.check_output(args=['./soil_moisture']
   humidity_temp_output = subprocess.check_output(args=['./humidity'])
-  humidity_output=
-  temp_output=
+  humidity_temp_output = str(humidity_output)[2:-1]
+  humidity_output, temp_output = humidity_temp_output[:5], humidity_temp_output[5:]
   fire_output = subprocess.check_output(args=['./fire_sensor']
   
   gps_output = subprocess.check_output(args=['./gps']
-  gps_output = str(gps_output)
+  gps_output = str(gps_output)[2:-1]
   
   gps_latitude, gps_longitude = gps_output[:8], gps_output[8:]
   
