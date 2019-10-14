@@ -48,3 +48,12 @@ Kelli Templeton:
 
 Kelli Templeton:
 1. Tested and improved camera integration code
+
+10/14/19 Update:
+
+Kelli Templeton:
+1. Installed all correct image processing dependencies on ODROID
+2. Succesfully ran image processing model on ODROID
+3. Wrote, tested, and finalized code to pull data from main module sensors every 5 minutes
+4. Wrote initial code to pull data from gps module and remote module
+5. Wrote initial code for camera - image processing model integration
