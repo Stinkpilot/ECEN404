@@ -8,3 +8,6 @@ Week 9/23
 Week 9/30
 - Labeled 400 images for validation
 Week 10/7
+- made a program to test the accuracy of the model
+- made code to test the model on the microcontroller without OpenCV
+- helped get the model to work on the microcontroller
