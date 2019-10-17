@@ -23,3 +23,9 @@
 - This last week I tested functionality of several of the components 
 - I plan to begin validating functionality of the module in the coming weeks
 - I plan to integrate the RF module with the odroid in the coming weeks
+
+10/17/2019
+- This last week I finished polishing of the GPS code and completed integration
+- Board from EDC had an issue requiring reordering so I fixed some issues and reordered from 4pcb it on monday (10/14)
+- I plan to integrate the RF module with the odroid in the today :(
+- I plan to begin validating functionality of the module in the coming weeks
