@@ -16,5 +16,22 @@ Week 9/27 update
  2. Ordered some components to PCB design
  
  
-
+ week 10/13
+ 1. Soldered the PCB
+ 
+ 2. battery is charged with solar panel
+ 
+ 3. odroid is powered on
+ 
+  
+   week 10/17
+ 1.Intgerated all sensors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
