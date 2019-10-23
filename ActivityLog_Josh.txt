@@ -13,3 +13,5 @@ Week 10/7
 - helped get the model to work on the microcontroller
 Week 10/14
 - actual accuracy of model attained
+- help figure out why the MC wasn't communicating with the GSM
+- help integrate the reciever of the RF sensor with the fire_status.c
