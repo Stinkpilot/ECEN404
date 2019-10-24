@@ -29,3 +29,7 @@
 - Board from EDC had an issue requiring reordering so I fixed some issues and reordered from 4pcb it on monday (10/14)
 - I plan to integrate the RF module with the odroid in the today :(
 - I plan to begin validating functionality of the module in the coming weeks
+
+10/24/2019
+- Wrote code for implementing rf module with odroid 
+- Recieved new PCB and soldered components onto board
