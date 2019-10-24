@@ -40,6 +40,7 @@ Kelli Templeton Update Log
 3. Discovered that the serial pin for the connection from the odroid to the gsm was dead - corrected the problem by adding USB to serial converter and implemented that successfully
 4. Discovered that looping the image processing and camera code would create a memory allocation error
 5. Solved the problem with a bash script that will build and break down the python code upon each loop
-6. Wrote tested and finalized code to pull data from gps and remote module 
-7. Successfully ran full integration code from sensors, gps, and remote module to gsm module and web application
-8. HIT SUCCESSFUL INTEGRATION BENCHMARK! 
+6. Modified sensor c code
+7. Wrote tested and finalized code to pull data from gps and remote module 
+8. Successfully ran full integration code from sensors, gps, and remote module to gsm module and web application
+9. HIT SUCCESSFUL INTEGRATION BENCHMARK!
