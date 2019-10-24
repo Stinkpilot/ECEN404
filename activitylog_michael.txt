@@ -31,5 +31,6 @@
 - I plan to begin validating functionality of the module in the coming weeks
 
 10/24/2019
-- Wrote code for implementing rf module with odroid 
+- Wrote code for integrateing with rf reciever with with odroid and tested connection with odroid
 - Recieved new PCB and soldered components onto board
+- This next week I will begin testing and validation of 
