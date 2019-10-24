@@ -119,10 +119,10 @@ void main(void) {
 
   char output_buffer[11] = {my_buffer[0], my_buffer[1], my_buffer[2], my_buffer[3], my_buffer[9], my_buffer[10], my_buffer[12], my_buffer[13], my_buffer[14], my_buffer[15], my_buffer[21]};
 
-  printf("\n");
+  //printf("\n");
   for (size_t i = 0; i <= 10; i++) {
     printf("%c", output_buffer[i]);
   }
-  printf("\n\n");
+  //printf("\n\n");
   close(fd);
 }
