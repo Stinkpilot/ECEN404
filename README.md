@@ -57,3 +57,15 @@ Kelli Templeton:
 3. Wrote, tested, and finalized code to pull data from main module sensors every 5 minutes
 4. Wrote initial code to pull data from gps module and remote module
 5. Wrote initial code for camera - image processing model integration
+
+10/24/19 Update:
+
+1. Final testing and integration of code that pulls data from sensors every 5 minutes
+2. Final testing of camera and image processing integration code
+3. Discovered that the serial pin for the connection from the odroid to the gsm was dead - corrected the problem by adding USB to serial converter and implemented that successfully
+4. Discovered that looping the image processing and camera code would create a memory allocation error
+5. Solved the problem with a bash script that will build and break down the python code upon each loop
+6. Modified sensor c code
+7. Wrote tested and finalized code to pull data from gps and remote module 
+8. Successfully ran full integration code from sensors, gps, and remote module to gsm module and web application
+9. HIT SUCCESSFUL INTEGRATION BENCHMARK! 
