@@ -69,3 +69,10 @@ Kelli Templeton:
 7. Wrote tested and finalized code to pull data from gps and remote module 
 8. Successfully ran full integration code from sensors, gps, and remote module to gsm module and web application
 9. HIT SUCCESSFUL INTEGRATION BENCHMARK! 
+
+10/28/19 Update:
+
+Kelli Templeton
+1. Fabricated device container
+2. Validated Sensors
+3. Wrote tested and finalized code for resetting GSM module off of PCB
