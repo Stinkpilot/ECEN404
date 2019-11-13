@@ -34,3 +34,13 @@
 - Wrote code for integrateing with rf reciever with with odroid and tested connection with odroid
 - Recieved new PCB and soldered components onto board
 - This next week I will begin testing and validation of the remote fire sensor
+
+10/31/2019
+11/7/2019
+
+11/14/2019
+- Realized I forgot to update this for the past two weeks... don't remember what all I did for each of those weeks
+- Validated remote fire sensor and it exceeded my expected specs!
+- All other sensors validated
+- Currently working with team to prepare for demo
+
