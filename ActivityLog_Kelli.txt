@@ -53,7 +53,6 @@ Kelli Templeton Update Log
 
 11/4/19 Update:
 
-Kelli Templeton
 1. Finalization of fabriced device container design
 2. Initial placement of hardware in device container
 3. Finalization and testing of completed main bash script
@@ -62,7 +61,6 @@ Kelli Templeton
 
 11/11/19 Update:
 
-Kelli Templeton
 1. Wired and permanently placed the hardware in the device container
 2. Configured ODROID to run bash script on boot using systemd
 3. Tested and validated running bash script on boot
@@ -70,5 +68,4 @@ Kelli Templeton
 
 11/18/19 Update:
 
-Kelli Templeton
 1. Compiling all validation information for demo binder
