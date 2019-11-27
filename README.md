@@ -76,3 +76,25 @@ Kelli Templeton
 1. Fabricated device container
 2. Validated Sensors
 3. Wrote tested and finalized code for resetting GSM module off of PCB
+
+11/4/19 Update:
+
+Kelli Templeton
+1. Finalization of fabriced device container design
+2. Initial placement of hardware in device container
+3. Finalization and testing of completed main bash script
+4. Validation of entire device (with large fire / smoke source)
+5. Final subsystem validation
+
+11/11/19 Update:
+
+Kelli Templeton
+1. Wired and permanently placed the hardware in the device container
+2. Configured ODROID to run bash script on boot using systemd
+3. Tested and validated running bash script on boot
+4. Validation of full device running on boot
+
+11/18/19 Update:
+
+Kelli Templeton
+1. Compiling all validation information for demo binder
