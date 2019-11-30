@@ -1,9 +1,9 @@
 ECEN 404 Team 10 Wildfire Detection Device
 
-Mevin Ansa
+Mevin Ansa - Power and MCU Subsystem
 
-Joshua Hornsey
+Joshua Hornsey - Image Processing Subsystem
 
-Kelli Templeton 
+Kelli Templeton - User Communication Subsystem
 
-Michael Zebe
+Michael Zebe - Sensors Subsystem
