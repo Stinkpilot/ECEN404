@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow = {path = "./tensorflow-1.11.0-cp35-none-linux_aarch64.whl"}
+
+[requires]
+python_version = "3.5"
+
+[scripts]
+workdamnit = "sudo env 'PATH=$PATH' python /home/odroid/tensortest/Object_detection_file_old/sensors_to_gsm.py"
